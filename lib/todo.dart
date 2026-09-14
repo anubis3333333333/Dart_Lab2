@@ -1,0 +1,1 @@
+Todo({required this.id, required this.title}): isDone = false;
